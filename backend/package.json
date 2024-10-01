@@ -1,5 +1,5 @@
 {
-  "name": "markdown-editor-backend",
+  "name": "table-func-backend",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -11,9 +11,9 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "axios": "^1.7.7",
     "cors": "^2.8.5",
     "express": "^4.21.0",
-    "marked": "^14.1.2",
     "nodemon": "^3.1.7"
   }
 }
